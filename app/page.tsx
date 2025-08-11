@@ -1,0 +1,1 @@
+export default function Home(){return(<div className='card'><h1>Benvenuto su QUANTARA</h1><p><a href='/bankroll'>Vai ai Bankroll</a> • <a href='/matches'>Quote (demo)</a> • <a href='/calendar'>Calendario</a> • <a href='/analytics'>Analytics</a></p></div>)}
